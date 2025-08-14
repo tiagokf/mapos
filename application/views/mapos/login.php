@@ -72,8 +72,8 @@
                 <div class="center">
                   <button id="btn-acessar">Acessar</button>
                 </div>
-                <div class="links-uteis"><a href="https://github.com/RamonSilva20/mapos">
-                    <p><?= date('Y'); ?> &copy; Ramon Silva</p>
+                <div class="links-uteis"><a href="https://tiremoto.com.br">
+                    <p><?= date('Y'); ?> &copy; TI Remoto</p>
                   </a>
                 </div>
                 <a href="#notification" id="call-modal" role="button" class="btn" data-toggle="modal" style="display: none ">notification</a>
